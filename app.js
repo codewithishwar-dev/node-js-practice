@@ -6,7 +6,7 @@
 //const {devide} = require("./misc/devide.js");
 
 const {p, devide, multiply} = require("./misc");
-
+const user = require("./user/user.json");
 const a = 10;
 const b = 20;
 const c = 200;
@@ -14,6 +14,8 @@ console.log(p);
 //doSumOfTwoNumber(a ,b);
 multiply(a,b);
 devide(a,b);
+
+console.log(user);
 
 
 
