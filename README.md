@@ -177,6 +177,6 @@ If this repository helps you in your learning journey, consider giving it a star
 
 **Ishwar Chandra Tiwari**
 
-Backend Engineer | Java | Node.js | Spring Boot | Drupal | System Design
+Backend Engineer | Java | Node.js | Javascript | Spring Boot | Drupal | System Design 
 
 Building and sharing practical engineering knowledge through **CodeWithIshwar**.
